@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+*.log
+*.png
+*.jpg
+test_*.py
+debug_*.png
+session.json
+skill-boer.zip
+*.egg-info/
+dist/
+build/
+.env
+.venv
